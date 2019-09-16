@@ -5,6 +5,7 @@ This project consist in a Web app to add and storage "Tasks" (text) in the Local
 Project using Git and Github.
 
 Project using the nexts Technologies:
--JavaScript
--Local Storage
--Bootstrap4
+JavaScript
+Local Storage
+Bootstrap4
+HTML5
